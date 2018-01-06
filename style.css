@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(230, 242, 255, 0.7);
+  background-color: rgba(230, 242, 255, 0.4);
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #848a8e;
@@ -38,19 +38,6 @@ body {
 
 .text-center {
   text-align: center;
-}
-
-.btn-red {
-  background-color: #fc7f71;
-  color: white;
-  font-weight: 500;
-  padding: 10px;
-  border-radius: 4px;
-}
-
-.btn-red:hover {
-  text-decoration: underline;
-  color: white;
 }
 
 .list-inline > li {
